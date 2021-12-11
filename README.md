@@ -8,3 +8,9 @@ Algoritmo que mostra, dado um vetor de números, a soma máxima, além da posiç
 
 ## - MaxIncresingSubsequence
 Algoritmo que mostra, dado um vetor de números, a soma da maior sequência crescente e a posições dos números que compõem essa soma.
+
+## - SubsetSum
+Algoritmo que mostra, dado um vetor de números e um valor alvo, se é possível alcançar esse valor usando os números do vetor e quais são esses números.
+
+## - Binary Backpack
+Algoritmo que mostra, dado vetores contendo pesos e quantidade dos objetos e uma capacidade máxima, como é possível colocar a maior quantidade de objetos sem exceder a capacidade máxima da bolsa.

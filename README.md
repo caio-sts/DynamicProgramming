@@ -6,4 +6,5 @@ Esses algoritmos são famosos por encontrar a melhor solução quando é preciso
 ## - MaxSumSegment
 Algoritmo que mostra, dado um vetor de números, a soma máxima, além da posição inicial e final desse segmento de soma máxima. 
 
-##
+## - MaxIncresingSubsequence
+Algoritmo que mostra, dado um vetor de números, a soma da maior sequência crescente e a posições dos números que compõem essa soma.
